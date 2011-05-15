@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ShoppingApp/!svn/ver/15/trunk/Nordstrom/Nordstrom/Buildscript
+END
+Nordstrom_MerchSearch_mobile.mobileprovision
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ShoppingApp/!svn/ver/15/trunk/Nordstrom/Nordstrom/Buildscript/Nordstrom_MerchSearch_mobile.mobileprovision
+END
+Nordstrom.plist
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ShoppingApp/!svn/ver/29/trunk/Nordstrom/Nordstrom/Buildscript/Nordstrom.plist
+END
+build.config
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ShoppingApp/!svn/ver/27/trunk/Nordstrom/Nordstrom/Buildscript/build.config
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ShoppingApp/!svn/ver/30/trunk/Nordstrom/Nordstrom/Buildscript/build.sh
+END
+Enterprise_Dist_ShoppingApp.mobileprovision
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ShoppingApp/!svn/ver/23/trunk/Nordstrom/Nordstrom/Buildscript/Enterprise_Dist_ShoppingApp.mobileprovision
+END
+MerchSearch.plist
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ShoppingApp/!svn/ver/15/trunk/Nordstrom/Nordstrom/Buildscript/MerchSearch.plist
+END

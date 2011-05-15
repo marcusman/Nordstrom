@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		212207C2137F5E9F00F8FE32 /* build.config in Resources */ = {isa = PBXBuildFile; fileRef = 212207BE137F5E9F00F8FE32 /* build.config */; };
+		212207C3137F5E9F00F8FE32 /* build.sh in Resources */ = {isa = PBXBuildFile; fileRef = 212207BF137F5E9F00F8FE32 /* build.sh */; };
+		212207C4137F5E9F00F8FE32 /* Enterprise_Dist_ShoppingApp.mobileprovision in Resources */ = {isa = PBXBuildFile; fileRef = 212207C0137F5E9F00F8FE32 /* Enterprise_Dist_ShoppingApp.mobileprovision */; };
+		212207C5137F5E9F00F8FE32 /* Nordstrom.plist in Resources */ = {isa = PBXBuildFile; fileRef = 212207C1137F5E9F00F8FE32 /* Nordstrom.plist */; };
 		A32E40D6136917DF008721EA /* Event.m in Sources */ = {isa = PBXBuildFile; fileRef = A32E40D5136917DF008721EA /* Event.m */; };
 		A32E40DA1369298A008721EA /* EventDetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = A32E40D81369298A008721EA /* EventDetailController.m */; };
 		A32E40DB1369298A008721EA /* EventDetailController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A32E40D91369298A008721EA /* EventDetailController.xib */; };
@@ -29,6 +33,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		212207BE137F5E9F00F8FE32 /* build.config */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = build.config; sourceTree = "<group>"; };
+		212207BF137F5E9F00F8FE32 /* build.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = build.sh; sourceTree = "<group>"; };
+		212207C0137F5E9F00F8FE32 /* Enterprise_Dist_ShoppingApp.mobileprovision */ = {isa = PBXFileReference; lastKnownFileType = file; path = Enterprise_Dist_ShoppingApp.mobileprovision; sourceTree = "<group>"; };
+		212207C1137F5E9F00F8FE32 /* Nordstrom.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Nordstrom.plist; sourceTree = "<group>"; };
 		A32E40D4136917DF008721EA /* Event.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Event.h; sourceTree = "<group>"; };
 		A32E40D5136917DF008721EA /* Event.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Event.m; sourceTree = "<group>"; };
 		A32E40D71369298A008721EA /* EventDetailController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EventDetailController.h; sourceTree = "<group>"; };
@@ -75,6 +83,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		212207BD137F5E9F00F8FE32 /* Buildscript */ = {
+			isa = PBXGroup;
+			children = (
+				212207BE137F5E9F00F8FE32 /* build.config */,
+				212207BF137F5E9F00F8FE32 /* build.sh */,
+				212207C0137F5E9F00F8FE32 /* Enterprise_Dist_ShoppingApp.mobileprovision */,
+				212207C1137F5E9F00F8FE32 /* Nordstrom.plist */,
+			);
+			path = Buildscript;
+			sourceTree = "<group>";
+		};
 		A32E40D013690A0E008721EA /* Model */ = {
 			isa = PBXGroup;
 			children = (
@@ -191,6 +210,7 @@
 		A3CD32CC1347DDDD009195D1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				212207BD137F5E9F00F8FE32 /* Buildscript */,
 				A3CD32CD1347DDDD009195D1 /* Nordstrom-Info.plist */,
 				A3CD32CE1347DDDD009195D1 /* InfoPlist.strings */,
 				A3CD32D11347DDDD009195D1 /* Nordstrom-Prefix.pch */,
@@ -256,6 +276,10 @@
 				A388062F134BE13E0083A2CD /* WishListController.xib in Resources */,
 				A3880639134BE1550083A2CD /* AccountController.xib in Resources */,
 				A32E40DB1369298A008721EA /* EventDetailController.xib in Resources */,
+				212207C2137F5E9F00F8FE32 /* build.config in Resources */,
+				212207C3137F5E9F00F8FE32 /* build.sh in Resources */,
+				212207C4137F5E9F00F8FE32 /* Enterprise_Dist_ShoppingApp.mobileprovision in Resources */,
+				212207C5137F5E9F00F8FE32 /* Nordstrom.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
