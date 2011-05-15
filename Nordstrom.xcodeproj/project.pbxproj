@@ -1,0 +1,442 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A32E40D6136917DF008721EA /* Event.m in Sources */ = {isa = PBXBuildFile; fileRef = A32E40D5136917DF008721EA /* Event.m */; };
+		A32E40DA1369298A008721EA /* EventDetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = A32E40D81369298A008721EA /* EventDetailController.m */; };
+		A32E40DB1369298A008721EA /* EventDetailController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A32E40D91369298A008721EA /* EventDetailController.xib */; };
+		A388061D134BE08B0083A2CD /* HotController.m in Sources */ = {isa = PBXBuildFile; fileRef = A388061B134BE08B0083A2CD /* HotController.m */; };
+		A388061E134BE08B0083A2CD /* HotController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A388061C134BE08B0083A2CD /* HotController.xib */; };
+		A3880629134BE1360083A2CD /* ShopController.m in Sources */ = {isa = PBXBuildFile; fileRef = A3880627134BE1360083A2CD /* ShopController.m */; };
+		A388062A134BE1360083A2CD /* ShopController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A3880628134BE1360083A2CD /* ShopController.xib */; };
+		A388062E134BE13E0083A2CD /* WishListController.m in Sources */ = {isa = PBXBuildFile; fileRef = A388062C134BE13E0083A2CD /* WishListController.m */; };
+		A388062F134BE13E0083A2CD /* WishListController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A388062D134BE13E0083A2CD /* WishListController.xib */; };
+		A3880638134BE1550083A2CD /* AccountController.m in Sources */ = {isa = PBXBuildFile; fileRef = A3880636134BE1550083A2CD /* AccountController.m */; };
+		A3880639134BE1550083A2CD /* AccountController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A3880637134BE1550083A2CD /* AccountController.xib */; };
+		A388063D134BE16D0083A2CD /* EventsController.m in Sources */ = {isa = PBXBuildFile; fileRef = A388063B134BE16D0083A2CD /* EventsController.m */; };
+		A3CD32C61347DDDD009195D1 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A3CD32C51347DDDD009195D1 /* UIKit.framework */; };
+		A3CD32C81347DDDD009195D1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A3CD32C71347DDDD009195D1 /* Foundation.framework */; };
+		A3CD32CA1347DDDD009195D1 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A3CD32C91347DDDD009195D1 /* CoreGraphics.framework */; };
+		A3CD32D01347DDDD009195D1 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A3CD32CE1347DDDD009195D1 /* InfoPlist.strings */; };
+		A3CD32D31347DDDD009195D1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A3CD32D21347DDDD009195D1 /* main.m */; };
+		A3CD32D61347DDDD009195D1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A3CD32D51347DDDD009195D1 /* AppDelegate.m */; };
+		A3CD32D91347DDDD009195D1 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = A3CD32D71347DDDD009195D1 /* MainWindow.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		A32E40D4136917DF008721EA /* Event.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Event.h; sourceTree = "<group>"; };
+		A32E40D5136917DF008721EA /* Event.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Event.m; sourceTree = "<group>"; };
+		A32E40D71369298A008721EA /* EventDetailController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EventDetailController.h; sourceTree = "<group>"; };
+		A32E40D81369298A008721EA /* EventDetailController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EventDetailController.m; sourceTree = "<group>"; };
+		A32E40D91369298A008721EA /* EventDetailController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = EventDetailController.xib; sourceTree = "<group>"; };
+		A388061A134BE08B0083A2CD /* HotController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HotController.h; sourceTree = "<group>"; };
+		A388061B134BE08B0083A2CD /* HotController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HotController.m; sourceTree = "<group>"; };
+		A388061C134BE08B0083A2CD /* HotController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HotController.xib; sourceTree = "<group>"; };
+		A3880626134BE1360083A2CD /* ShopController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShopController.h; sourceTree = "<group>"; };
+		A3880627134BE1360083A2CD /* ShopController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShopController.m; sourceTree = "<group>"; };
+		A3880628134BE1360083A2CD /* ShopController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ShopController.xib; sourceTree = "<group>"; };
+		A388062B134BE13E0083A2CD /* WishListController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WishListController.h; sourceTree = "<group>"; };
+		A388062C134BE13E0083A2CD /* WishListController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WishListController.m; sourceTree = "<group>"; };
+		A388062D134BE13E0083A2CD /* WishListController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WishListController.xib; sourceTree = "<group>"; };
+		A3880635134BE1550083A2CD /* AccountController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AccountController.h; sourceTree = "<group>"; };
+		A3880636134BE1550083A2CD /* AccountController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AccountController.m; sourceTree = "<group>"; };
+		A3880637134BE1550083A2CD /* AccountController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AccountController.xib; sourceTree = "<group>"; };
+		A388063A134BE16D0083A2CD /* EventsController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EventsController.h; sourceTree = "<group>"; };
+		A388063B134BE16D0083A2CD /* EventsController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EventsController.m; sourceTree = "<group>"; };
+		A3CD32C11347DDDD009195D1 /* Nordstrom.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Nordstrom.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A3CD32C51347DDDD009195D1 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		A3CD32C71347DDDD009195D1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		A3CD32C91347DDDD009195D1 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		A3CD32CD1347DDDD009195D1 /* Nordstrom-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Nordstrom-Info.plist"; sourceTree = "<group>"; };
+		A3CD32CF1347DDDD009195D1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		A3CD32D11347DDDD009195D1 /* Nordstrom-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Nordstrom-Prefix.pch"; sourceTree = "<group>"; };
+		A3CD32D21347DDDD009195D1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A3CD32D41347DDDD009195D1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		A3CD32D51347DDDD009195D1 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		A3CD32D81347DDDD009195D1 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A3CD32BE1347DDDC009195D1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A3CD32C61347DDDD009195D1 /* UIKit.framework in Frameworks */,
+				A3CD32C81347DDDD009195D1 /* Foundation.framework in Frameworks */,
+				A3CD32CA1347DDDD009195D1 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A32E40D013690A0E008721EA /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				A32E40D4136917DF008721EA /* Event.h */,
+				A32E40D5136917DF008721EA /* Event.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		A32E40D213690A2C008721EA /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				A3CD32D41347DDDD009195D1 /* AppDelegate.h */,
+				A3CD32D51347DDDD009195D1 /* AppDelegate.m */,
+				A3CD32D71347DDDD009195D1 /* MainWindow.xib */,
+				A388061F134BE0A60083A2CD /* Hot */,
+				A3880622134BE0FB0083A2CD /* Shop */,
+				A3880623134BE10A0083A2CD /* Wish List */,
+				A3880624134BE1170083A2CD /* Events */,
+				A3880625134BE11E0083A2CD /* Account */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		A388061F134BE0A60083A2CD /* Hot */ = {
+			isa = PBXGroup;
+			children = (
+				A388061A134BE08B0083A2CD /* HotController.h */,
+				A388061B134BE08B0083A2CD /* HotController.m */,
+				A388061C134BE08B0083A2CD /* HotController.xib */,
+			);
+			name = Hot;
+			sourceTree = "<group>";
+		};
+		A3880622134BE0FB0083A2CD /* Shop */ = {
+			isa = PBXGroup;
+			children = (
+				A3880626134BE1360083A2CD /* ShopController.h */,
+				A3880627134BE1360083A2CD /* ShopController.m */,
+				A3880628134BE1360083A2CD /* ShopController.xib */,
+			);
+			name = Shop;
+			sourceTree = "<group>";
+		};
+		A3880623134BE10A0083A2CD /* Wish List */ = {
+			isa = PBXGroup;
+			children = (
+				A388062B134BE13E0083A2CD /* WishListController.h */,
+				A388062C134BE13E0083A2CD /* WishListController.m */,
+				A388062D134BE13E0083A2CD /* WishListController.xib */,
+			);
+			name = "Wish List";
+			sourceTree = "<group>";
+		};
+		A3880624134BE1170083A2CD /* Events */ = {
+			isa = PBXGroup;
+			children = (
+				A32E40D71369298A008721EA /* EventDetailController.h */,
+				A32E40D81369298A008721EA /* EventDetailController.m */,
+				A32E40D91369298A008721EA /* EventDetailController.xib */,
+				A388063A134BE16D0083A2CD /* EventsController.h */,
+				A388063B134BE16D0083A2CD /* EventsController.m */,
+			);
+			name = Events;
+			sourceTree = "<group>";
+		};
+		A3880625134BE11E0083A2CD /* Account */ = {
+			isa = PBXGroup;
+			children = (
+				A3880635134BE1550083A2CD /* AccountController.h */,
+				A3880636134BE1550083A2CD /* AccountController.m */,
+				A3880637134BE1550083A2CD /* AccountController.xib */,
+			);
+			name = Account;
+			sourceTree = "<group>";
+		};
+		A3CD32B61347DDDC009195D1 = {
+			isa = PBXGroup;
+			children = (
+				A3CD32CB1347DDDD009195D1 /* Nordstrom */,
+				A3CD32C41347DDDD009195D1 /* Frameworks */,
+				A3CD32C21347DDDD009195D1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A3CD32C21347DDDD009195D1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A3CD32C11347DDDD009195D1 /* Nordstrom.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A3CD32C41347DDDD009195D1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A3CD32C51347DDDD009195D1 /* UIKit.framework */,
+				A3CD32C71347DDDD009195D1 /* Foundation.framework */,
+				A3CD32C91347DDDD009195D1 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A3CD32CB1347DDDD009195D1 /* Nordstrom */ = {
+			isa = PBXGroup;
+			children = (
+				A32E40D013690A0E008721EA /* Model */,
+				A32E40D213690A2C008721EA /* Controllers */,
+				A3CD32CC1347DDDD009195D1 /* Supporting Files */,
+			);
+			path = Nordstrom;
+			sourceTree = "<group>";
+		};
+		A3CD32CC1347DDDD009195D1 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A3CD32CD1347DDDD009195D1 /* Nordstrom-Info.plist */,
+				A3CD32CE1347DDDD009195D1 /* InfoPlist.strings */,
+				A3CD32D11347DDDD009195D1 /* Nordstrom-Prefix.pch */,
+				A3CD32D21347DDDD009195D1 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A3CD32C01347DDDC009195D1 /* Nordstrom */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A3CD32DC1347DDDD009195D1 /* Build configuration list for PBXNativeTarget "Nordstrom" */;
+			buildPhases = (
+				A3CD32BD1347DDDC009195D1 /* Sources */,
+				A3CD32BE1347DDDC009195D1 /* Frameworks */,
+				A3CD32BF1347DDDC009195D1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Nordstrom;
+			productName = Nordstrom;
+			productReference = A3CD32C11347DDDD009195D1 /* Nordstrom.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A3CD32B81347DDDC009195D1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = Nordstrom;
+			};
+			buildConfigurationList = A3CD32BB1347DDDC009195D1 /* Build configuration list for PBXProject "Nordstrom" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = A3CD32B61347DDDC009195D1;
+			productRefGroup = A3CD32C21347DDDD009195D1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A3CD32C01347DDDC009195D1 /* Nordstrom */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A3CD32BF1347DDDC009195D1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A3CD32D01347DDDD009195D1 /* InfoPlist.strings in Resources */,
+				A3CD32D91347DDDD009195D1 /* MainWindow.xib in Resources */,
+				A388061E134BE08B0083A2CD /* HotController.xib in Resources */,
+				A388062A134BE1360083A2CD /* ShopController.xib in Resources */,
+				A388062F134BE13E0083A2CD /* WishListController.xib in Resources */,
+				A3880639134BE1550083A2CD /* AccountController.xib in Resources */,
+				A32E40DB1369298A008721EA /* EventDetailController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A3CD32BD1347DDDC009195D1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A3CD32D31347DDDD009195D1 /* main.m in Sources */,
+				A3CD32D61347DDDD009195D1 /* AppDelegate.m in Sources */,
+				A388061D134BE08B0083A2CD /* HotController.m in Sources */,
+				A3880629134BE1360083A2CD /* ShopController.m in Sources */,
+				A388062E134BE13E0083A2CD /* WishListController.m in Sources */,
+				A3880638134BE1550083A2CD /* AccountController.m in Sources */,
+				A388063D134BE16D0083A2CD /* EventsController.m in Sources */,
+				A32E40D6136917DF008721EA /* Event.m in Sources */,
+				A32E40DA1369298A008721EA /* EventDetailController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		A3CD32CE1347DDDD009195D1 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A3CD32CF1347DDDD009195D1 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		A3CD32D71347DDDD009195D1 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A3CD32D81347DDDD009195D1 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		21A8FDDE137A0D3300CF1286 /* Distrubution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_ENTITLEMENTS = "";
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				RUN_CLANG_STATIC_ANALYZER = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Distrubution;
+		};
+		21A8FDDF137A0D3300CF1286 /* Distrubution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = "";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Nordstrom/Nordstrom-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INFOPLIST_FILE = "Nordstrom/Nordstrom-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				RUN_CLANG_STATIC_ANALYZER = YES;
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Distrubution;
+		};
+		A3CD32DA1347DDDD009195D1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				RUN_CLANG_STATIC_ANALYZER = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		A3CD32DB1347DDDD009195D1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				RUN_CLANG_STATIC_ANALYZER = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		A3CD32DD1347DDDD009195D1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = "";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Nordstrom/Nordstrom-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INFOPLIST_FILE = "Nordstrom/Nordstrom-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				RUN_CLANG_STATIC_ANALYZER = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		A3CD32DE1347DDDD009195D1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = "";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Nordstrom/Nordstrom-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INFOPLIST_FILE = "Nordstrom/Nordstrom-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				RUN_CLANG_STATIC_ANALYZER = YES;
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A3CD32BB1347DDDC009195D1 /* Build configuration list for PBXProject "Nordstrom" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A3CD32DA1347DDDD009195D1 /* Debug */,
+				A3CD32DB1347DDDD009195D1 /* Release */,
+				21A8FDDE137A0D3300CF1286 /* Distrubution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Distrubution;
+		};
+		A3CD32DC1347DDDD009195D1 /* Build configuration list for PBXNativeTarget "Nordstrom" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A3CD32DD1347DDDD009195D1 /* Debug */,
+				A3CD32DE1347DDDD009195D1 /* Release */,
+				21A8FDDF137A0D3300CF1286 /* Distrubution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Distrubution;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A3CD32B81347DDDC009195D1 /* Project object */;
+}
