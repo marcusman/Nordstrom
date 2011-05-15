@@ -35,8 +35,6 @@ export OUTPUT=$WORKSPACE/output
 rm -rf $OUTPUT
 mkdir -p $OUTPUT
 PROFILE_HOME=~/Library/MobileDevice/Provisioning\ Profiles/
-#PROFILE_HOME=/Users/remote/Library/MobileDevice/Provisioning\ Profiles/
-#PROFILE_HOME=/Users/remote/HudsonBuild/test/
 KEYCHAIN=~/Library/Keychains/login.keychain
 # removing MSearch3 for new build server
 # . "$WORKSPACE/MSearch3/Buildscript/build.config"
