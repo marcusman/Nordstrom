@@ -2,7 +2,7 @@
 //  NordstromAppDelegate.m
 //  Nordstrom
 //
-//  Created by Luke Adamson on 4/2/11.
+//  Created by Mark Allen on 5/16/11.
 //  Copyright 2011 Nordstrom. All rights reserved.
 //
 
