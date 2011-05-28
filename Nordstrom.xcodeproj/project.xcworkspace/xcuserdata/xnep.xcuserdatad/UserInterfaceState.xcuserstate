@@ -1638,7 +1638,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>328309952.712731</real>
+		<real>328309953.65829903</real>
 		<string>{0, 1108}</string>
 		<integer>0</integer>
 		<dict>
@@ -2602,7 +2602,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>328309952.71442097</real>
+		<real>328309960.13101703</real>
 		<string>{0, 1417}</string>
 		<string>{208, 0}</string>
 		<string>Xcode.IDEKit.EditorDocument.SourceCode</string>
@@ -3623,7 +3623,7 @@
 				</dict>
 			</array>
 		</dict>
-		<string>{{142, 68}, {1400, 952}}</string>
+		<string>{{142, 62}, {1400, 952}}</string>
 	</array>
 	<key>$top</key>
 	<dict>
