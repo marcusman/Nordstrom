@@ -2,7 +2,7 @@
 //  EventsController.m
 //  Nordstrom
 //
-//  Created by Luke Adamson on 4/5/11.
+//  Created by Mark Allen on 4/5/11.
 //  Copyright 2011 Nordstrom. All rights reserved.
 //
 
