@@ -245,6 +245,7 @@
 		A3CD32B81347DDDC009195D1 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastUpgradeCheck = 0420;
 				ORGANIZATIONNAME = Nordstrom;
 			};
 			buildConfigurationList = A3CD32BB1347DDDC009195D1 /* Build configuration list for PBXProject "Nordstrom" */;
