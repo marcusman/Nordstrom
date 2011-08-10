@@ -1714,7 +1714,7 @@
 		<string>PrimaryDocumentVisibleCharacterRange</string>
 		<string>HideAllIssues</string>
 		<string>PrimaryDocumentSelectedCharacterRange</string>
-		<real>334643440.94121897</real>
+		<real>334643499.26068401</real>
 		<string>{0, 1840}</string>
 		<string>{390, 0}</string>
 		<dict>
@@ -2569,15 +2569,15 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>151</integer>
+					<integer>143</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>149</integer>
+					<integer>141</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>148</integer>
+					<integer>140</integer>
 				</dict>
 			</array>
 			<key>NS.objects</key>
@@ -2596,8 +2596,8 @@
 				</dict>
 			</array>
 		</dict>
-		<string>{0, 870}</string>
-		<real>334600826.71672601</real>
+		<string>{32809, 927}</string>
+		<real>334643499.26091599</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3121,7 +3121,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>269</integer>
+					<integer>270</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -3162,7 +3162,7 @@
 				<integer>263</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/xnep/SourceControl/Github/Nordstrom/Nordstrom/NOREventsController.h</string>
+		<string>file://localhost/Users/xnep/SourceControl/Github/Nordstrom/Nordstrom.xcodeproj/project.xcworkspace/xcuserdata/xnep.xcuserdatad/UserInterfaceState.xcuserstate</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3180,7 +3180,7 @@
 				<integer>265</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/xnep/SourceControl/Github/Nordstrom/Nordstrom/EventsController.m</string>
+		<string>file://localhost/Users/xnep/SourceControl/Github/Nordstrom/Nordstrom/NOREventsController.h</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3196,6 +3196,24 @@
 			<dict>
 				<key>CF$UID</key>
 				<integer>267</integer>
+			</dict>
+		</dict>
+		<string>file://localhost/Users/xnep/SourceControl/Github/Nordstrom/Nordstrom/EventsController.m</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>25</integer>
+			</dict>
+			<key>NS.base</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>NS.relative</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>269</integer>
 			</dict>
 		</dict>
 		<string>file://localhost/Users/xnep/SourceControl/Github/Nordstrom/Nordstrom/EventsController.h</string>
@@ -3216,24 +3234,6 @@
 				<integer>67</integer>
 			</dict>
 		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>25</integer>
-			</dict>
-			<key>NS.base</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>NS.relative</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>270</integer>
-			</dict>
-		</dict>
-		<string>file://localhost/Users/xnep/SourceControl/Github/Nordstrom/Nordstrom.xcodeproj/project.xcworkspace/xcuserdata/xnep.xcuserdatad/UserInterfaceState.xcuserstate</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4204,7 +4204,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>334643440.94552302</real>
+		<real>334643499.26451898</real>
 		<string>{0, 1840}</string>
 		<string>{390, 0}</string>
 		<string>Initialization and deallocation</string>
