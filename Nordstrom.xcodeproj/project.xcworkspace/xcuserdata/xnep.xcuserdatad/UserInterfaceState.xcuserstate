@@ -1714,7 +1714,7 @@
 		<string>PrimaryDocumentVisibleCharacterRange</string>
 		<string>HideAllIssues</string>
 		<string>PrimaryDocumentSelectedCharacterRange</string>
-		<real>334643524.76617301</real>
+		<real>334643529.83931702</real>
 		<string>{0, 1840}</string>
 		<string>{390, 0}</string>
 		<dict>
@@ -2597,7 +2597,7 @@
 			</array>
 		</dict>
 		<string>{32809, 927}</string>
-		<real>334643524.76635802</real>
+		<real>334643524.79556</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3409,7 +3409,7 @@
 		<string>IDEActiveWorkspaceTabController</string>
 		<string>IDEWindowToolbarIsVisible</string>
 		<string>IDEWindowTabBarIsVisible</string>
-		<string>{{498, 4}, {1099, 890}}</string>
+		<string>{{498, 0}, {1099, 890}}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4204,7 +4204,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>334643524.769678</real>
+		<real>334643529.84770101</real>
 		<string>{0, 1840}</string>
 		<string>{390, 0}</string>
 		<string>Initialization and deallocation</string>
